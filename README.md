@@ -1,2 +1,2 @@
-# 1-Projeto_PUC
-Desenvolvimento de Aplicação para Tratamento de Dados - Turma 01 - 2023/2
+# 1-Projeto Dengue
+Desenvolvimento de Aplicação para Tratamento de Dados - 2023/2
